@@ -1,7 +1,17 @@
-# Welcome to streamlit
+# Chek out and Check in
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+```
+git pull origin main
+or 
+git pull --rebase
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+--adding new file
+git add file <file name>
+--commit
+git commit -m 'remakr'
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+--push to Github. below is in the main branch
+git push origin main
+```
+
+
