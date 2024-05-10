@@ -14,4 +14,12 @@ git commit -m 'remakr'
 git push origin main
 ```
 
+Edit existing file and commit. example this README.md
+
+```
+git add README.md
+git commit -m "my changes"
+git push origin main
+```
+
 
